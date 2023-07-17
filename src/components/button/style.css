@@ -1,0 +1,14 @@
+.form-button {
+  border: none;
+  background: linear-gradient(to top left, cornflowerblue, blue);
+  color: #fff;
+  font-size: 12px;
+  cursor: pointer;
+  padding: 8px 18px;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px 2px #eee;
+}
+
+.form-button:active {
+  opacity: 0.7;
+}
